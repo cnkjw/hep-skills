@@ -1,0 +1,4 @@
+interface:
+  display_name: "HEPData CLI"
+  short_description: "Search and download HEPData records with hepdata-cli"
+  default_prompt: "Use $hepdata-cli to find a HEPData record and download the requested tables in a suitable format."
